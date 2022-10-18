@@ -13,3 +13,8 @@ indulási állomástól mért távolságát! (480)*/
 
 SELECT allomas.nev, allomas.tipus, hely.tav FROM allomas,hely WHERE hely.vonalid = "80" AND allomas.mukodo <> '-1' AND allomas.id = hely.allomasid ORDER BY hely.tav;
 
+/*5. Készítsen lekérdezést, amely megadja az egyes vonalak hosszát, azaz az első és az utolsó
+hely távolságát! Jelenítse meg a vonal azonosítóját és a hossz értékét! (5vonalhossz)*/ 
+
+
+SELECT hely.vonalid, MAX(hely.tav) FROM hely GROUP BY hely.vonalid;
