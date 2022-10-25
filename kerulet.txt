@@ -1,0 +1,24 @@
+szam	nev	lakossag	terulet
+I.	Budavár	25172	3,41
+II.		89452	36,34
+III.	Óbuda-Békásmegyer	130560	39,70
+IV.	Újpest	100071	18,82
+V.	Belváros-Lipótváros	26013	2,59
+VI.	Terézváros	38541	2,38
+VII.	Erzsébetváros	52362	2,09
+VIII.	Józsefváros	76916	6,85
+IX.	Ferencváros	59720	12,53
+X.	Kőbánya	78030	32,49
+XI.	Újbuda	148517	33,49
+XII.	Hegyvidék	57566	26,67
+XIII.		121657	13,44
+XIV.	Zugló	124218	18,13
+XV.	Rákospalota-Pestújhely-Újpalota	79675	26,94
+XVI.		74499	33,51
+XVII.	Rákosmente	87673	54,82
+XVIII.	Pestszentlőrinc-Pestszentimre	102216	38,60
+XIX.	Kispest	59648	9,38
+XX.	Pesterzsébet	65611	12,19
+XXI.	Csepel	76092	25,75
+XXII.	Budafok-Tétény	55112	34,25
+XXIII.	Soroksár	22965	40,77

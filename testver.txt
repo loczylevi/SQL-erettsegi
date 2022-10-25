@@ -1,0 +1,110 @@
+szam	telepules	resz	orszag
+I.	Bécs	Belváros	Ausztria
+I.	Prága	1	Csehország
+I.	Marlow		Egyesült Királyság
+I.	Sródmiesce		Lengyelország
+I.	Regensburg		 Németország
+I.	Capestrano		Olaszország
+I.	Munkács		Ukrajna
+I.	Székelyudvarhely		Románia
+I.	Zenta		Szerbia
+I.	Pozsony	Óváros	Szlovákia
+I.	Lendva		Szlovénia
+I.	Carouge		Svájc
+II.	Mosbach		Németország
+II.	Varsó	Zolinaz	 Lengyelország
+II.	Finike		Törökország
+III.	Billigheim		Németország
+III.	Udine		Olaszország
+III.	Amstelveen		Hollandia
+III.	Varsó	Bemowo	Lengyelország
+III.	Csíkszereda		Románia
+III.	Kassa	Óváros	Szlovákia
+IV.	Berlin	Marzahn-Hellersdorf	Németország
+IV.	Kalkísz		Görögország
+IV.	Tyresö		Svédország
+V.	Prága	2	Csehország
+V.	Berlin	Charlottenburg	Németország
+V.	Mondragone		Olaszország
+V.	Krakkó	Stare Miasto	Lengyelország
+V.	Torockó		Románia
+V.	Gyergyószentmiklós		Románia
+V.	Topolya		Szerbia
+V.	Rozsnyó		Szlovákia
+V.	Rahó		Ukrajna
+VI.	Drezda		Németország
+VI.	Lenti		Magyarország
+VI.	Kézdivásárhely		Románia
+VI.	Temerin		Szerbia
+VI.	Zára	VII.	Horvátország
+VI.	Sveti Vlas		Bulgária
+VI.	Pozsega		Horvátország
+VI.	Nevers		Franciaország
+VI.	Szaloniki	Stavroupoli	Görögország
+VI.	Siedlce		Lengyelország
+VIII.	Bécs	Josefstadt	Ausztria
+VIII.	Temesvár	Józsefváros	Románia
+VIII.	?lborg		Dánia
+IX.	Sepsiszentgyörgy		Románia
+IX.	Magyarkanizsa		Szerbia
+IX.	Királyhelmec		Szlovákia
+X.	Vinkovce		Horvátország
+X.	Wolverhampton		Egyesült Királyság
+XI.	Stuttgart	Bad Cannstatt	Németország
+XI.	Cortona		Olaszország
+XII.	Watermael-Boitsfort		Belgium
+XII.	Székelyudvarhely		Románia
+XIII.	Bécs	Floridsdorf	Ausztria
+XIII.	Eszék		Horvátország
+XIII.	Varsó	Ochota	Lengyelország
+XIII.	Szováta		Románia
+XIII.	Kassa	IV.	Szlovákia
+XIV.	Csíkszereda		Románia
+XIV.	Alsórákos		Románia
+XIV.	Racibórz		Lengyelország
+XIV.	Berlin	Steglitz-Zehlendorf	Németország
+XV.	Bécs	Liesing	Ausztria
+XV.	Obervellach		Ausztria
+XV.	Donji Kraljevec		Horvátország
+XV.	Berlin	Marzahn-Hellersdorf	Németország
+XV.	Mosonmagyaróvár		Magyarország
+XV.	Tótszentmárton		Magyarország
+XV.	Maroshévíz		Románia
+XV.	Kassa	Tóvárosi lakótelep	Szlovákia
+XVI.	Marosvásárhely		Románia
+XVI.	Waltershausen		Németország
+XVI.	Novi Vinodolski		Horvátország
+XVI.	Canistro		Olaszország
+XVI.	Krakkó		Lengyelország
+XVI.	Fülekpüspöki		Szlovákia
+XVII.	Lovran		Horvátország
+XVII.	Gyergyószentmiklós		Románia
+XVIII.	Artashat		Örményország
+XVIII.	Nesebar		Bulgária
+XVIII.	Obzor		Bulgária
+XVIII.	Nin		Horvátország
+XVIII.	Roding		Németország
+XVIII.	San Nicola la Strada		Olaszország
+XVIII.	Dšbrowa Tarnowska		Lengyelország
+XVIII.	Tusnádfürdő		Románia
+XIX.	Smolyan		Bulgária
+XIX.	Kisverbóc		Horvátország
+XIX.	Zombor		Szerbia
+XX.	Frankfurt-Nord-Ost		Németország
+XX.	Olgiate Comasco		Olaszország
+XX.	Bölön		Románia
+XX.	Székelykeresztúr		Románia
+XXI.	Fiume		Horvátország
+XXI.	Juankoski		Finnország
+XXI.	Neuenburg am Rhein		Németország
+XXI.	Nagyszalonta		Románia
+XXII.	Bécs	Donaustadt	Ausztria
+XXII.	Várna		Bulgária
+XXII.	Bonn		Németország
+XXII.	Varsó	Białołęka	Lengyelország
+XXII.	Barót		Románia
+XXII.	Kristianstad		Svédország
+XXIII.	Tvardica		Bulgária
+XXIII.	Székelyudvarhely		Románia
+XXIII.	Nürtingen		Németország
+XXIII.	Törökbálint		Magyarország
